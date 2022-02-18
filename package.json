@@ -1,0 +1,20 @@
+{
+  "name": "pokemon-code",
+  "version": "1.0.0",
+  "description": "Pokemon Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Loyiso Mlandu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.1",
+    "hbs": "^4.2.0"
+  },
+  "devDependencies": {
+    "jest": "^27.4.3",
+    "nodemon": "^2.0.15"
+  }
+}
